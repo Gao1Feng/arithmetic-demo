@@ -2,6 +2,9 @@ package com.musk.arithmeticdemo.demo;
 
 import java.util.Arrays;
 
+/**
+ * 冒泡排序
+ */
 public class BubbleSortDemo {
     public static void main(String[] args) {
         int[] arr = new int[]{2, 5, 1, 4, 7, 3};
